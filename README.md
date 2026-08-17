@@ -1,2 +1,2 @@
 # CodeAlpha_HangmanGame
-Python project completed as part of my CodeAlpha internship.
+Hangman Game developed using Python as part of my CodeAlpha internship.
